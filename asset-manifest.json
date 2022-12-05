@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/56thAB/56thAB.github.io/static/css/main.ca7aa73f.css",
+    "main.js": "/56thAB/56thAB.github.io/static/js/main.484c366f.js",
+    "index.html": "/56thAB/56thAB.github.io/index.html",
+    "main.ca7aa73f.css.map": "/56thAB/56thAB.github.io/static/css/main.ca7aa73f.css.map",
+    "main.484c366f.js.map": "/56thAB/56thAB.github.io/static/js/main.484c366f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca7aa73f.css",
+    "static/js/main.484c366f.js"
+  ]
+}
