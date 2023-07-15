@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d30c12a8.css",
-    "main.js": "/static/js/main.1dcdb9af.js",
-    "static/media/background.png": "/static/media/background.9559511966094699b6a6.png",
+    "main.css": "/static/css/main.a748cb00.css",
+    "main.js": "/static/js/main.fb333444.js",
+    "static/media/guidesBackground.png": "/static/media/guidesBackground.e6980a71a016ba57d77b.png",
+    "static/media/homepageBackground.png": "/static/media/homepageBackground.02050e9e0e5276e5c161.png",
+    "static/media/background.png": "/static/media/background.a81da920bab1f678eefd.png",
     "static/media/log6.png": "/static/media/log6.674abf0a8d0110b1f326.png",
-    "static/media/Mouse.png": "/static/media/Mouse.350ed9f5bfea09fac0ba.png",
-    "static/media/Potato.ini.png": "/static/media/Potato.ini.73506ddb37f2c5db70a6.png",
-    "static/media/Currencies.png": "/static/media/Currencies.e20d99ced782f2cca47e.png",
     "static/media/Left.png": "/static/media/Left.3795c74819eff4afde1b.png",
     "static/media/Right.png": "/static/media/Right.4f8b647dada4b15b2f03.png",
     "static/media/discord.svg": "/static/media/discord.a0c4cf7755c6653944b33ca5f7aed92a.svg",
     "index.html": "/index.html",
     "static/media/GenerateRoutes": "/static/media/GenerateRoutes.b4992f31cdbf50840f1d",
-    "main.d30c12a8.css.map": "/static/css/main.d30c12a8.css.map",
-    "main.1dcdb9af.js.map": "/static/js/main.1dcdb9af.js.map"
+    "main.a748cb00.css.map": "/static/css/main.a748cb00.css.map",
+    "main.fb333444.js.map": "/static/js/main.fb333444.js.map"
   },
   "entrypoints": [
-    "static/css/main.d30c12a8.css",
-    "static/js/main.1dcdb9af.js"
+    "static/css/main.a748cb00.css",
+    "static/js/main.fb333444.js"
   ]
 }
